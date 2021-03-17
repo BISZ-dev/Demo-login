@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin-top: 20%;
+    padding: 10px;
+    border: 3px red solid;
+}
