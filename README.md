@@ -1,11 +1,13 @@
 # Demo-login
-Demo login page using pure PHP and HTML
+Demo login page using pure PHP and HTML.
+一个纯PHP+HTML的登录界面。
 
 # Demo
 Visit : https://bisz-dev.github.io/Demo-login/
-
+访问：https://bisz-dev.github.io/Demo-login/
 ```
 demo for password and username
+demo 为用户名和密码
 ```
 
 # License
