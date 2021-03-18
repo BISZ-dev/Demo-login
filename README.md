@@ -11,14 +11,15 @@ demo 爲用戶名和密碼
 ```
 
 # Usage
-1. Download package from [releases]()
+1. Download package from [releases](https://github.com/BISZ-dev/Demo-login/releases)
 2. Decompress the file to your web space.
 3. Replace ``` vlInf.txt``` with your usernames and passwords in the format ```username&password```
 4. Replace the value of the ```$npg``` variable to the page you want it to redirect to after a user has successfully logged in.
 5. Replace ```index.html``` with your custom titles. 
 
+<br>
 
-1. 從 []() 下載檔案
+1. 從 [releases](https://github.com/BISZ-dev/Demo-login/releases) 下載檔案
 2. 在你的網路空間中解壓縮文件
 3. 將 ```vlInf.txt``` 中的內容替換爲你的用戶名和密碼。用戶名和密碼必須爲以下格式：```username&password```
 4. 將```$npg```的值替換爲你想重定向的網址
