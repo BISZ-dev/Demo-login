@@ -10,7 +10,15 @@ demo for password and username
 demo 为用户名和密码
 ```
 
+# Usage
+1. Download package from [releases]()
+2. Decompress the file to your web space.
+3. Replace ``` inf.txt``` with your usernames and passwords in the format ```username&password```
+4. Replace the value of the ```$npg``` variable to the page you want it to redirect to after a user has successfully logged in.
+5. Replace ```index.html``` with your custom titles. 
+
 # License
+```
 MIT License
 
 Copyright (c) 2021 BISZ-dev
@@ -32,7 +40,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+```
 
 # Authors
 green
